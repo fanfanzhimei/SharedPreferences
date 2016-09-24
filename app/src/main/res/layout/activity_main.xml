@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="30dp">
+
+    <TextView
+        android:id="@+id/tv_name"
+        style="@style/TextView_Login"
+        android:text="" />
+
+    <TextView
+        style="@style/TextView_Login"
+        android:text="@string/str_main_welcome" />
+
+    <Button
+        android:id="@+id/btn_cancel_login"
+        style="@style/TextView_Login"
+        android:text="@string/str_main_cancel_auto_login" />
+</LinearLayout>

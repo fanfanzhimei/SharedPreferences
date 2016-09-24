@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sharepreferences</string>
+
+    <string name="str_login_username">用户名:</string>
+    <string name="str_login_password">密 码:</string>
+    <string name="str_login_auto_login">自动登录</string>
+    <string name="str_login">登录</string>
+    <string name="str_main_welcome">欢迎您回来</string>
+    <string name="str_login_remenber_user">记住信息</string>
+    <string name="str_main_cancel_auto_login">取消自动登录</string>
+</resources>
